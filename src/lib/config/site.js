@@ -10,7 +10,7 @@ export const SITE_CONFIG = {
 	},
 	social: {
 		twitter: '@thinkflow',
-		github: 'https://github.com/gabrielatwell1987'
+		github: 'https://github.com/gabeatwell'
 	},
 	contact: {
 		email: 'contact@your-domain.com' // Replace with your email

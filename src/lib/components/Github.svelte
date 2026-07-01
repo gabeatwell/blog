@@ -2,7 +2,7 @@
 </script>
 
 <a
-	href="https://github.com/gabrielatwell1987/blog"
+	href="https://github.com/gabeatwell/blog"
 	aria-label="GitHub repository"
 	target="_blank"
 	rel="noopener noreferrer"
